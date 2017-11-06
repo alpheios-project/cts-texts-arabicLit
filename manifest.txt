@@ -1,0 +1,3 @@
+data/alk/__cts__.xml
+data/alk/alk001/__cts__.xml
+data/alk/alk001/alk.alk001.alpheios-vocab-ara1.xml

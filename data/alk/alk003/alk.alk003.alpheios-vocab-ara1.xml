@@ -1,21 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:prdf="http://www.perseus.org/meta/perseus.rdfs#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dctype="http://purl.org/dc/dcmitype/" xmlns:perseus="http://www.perseus.org/meta/perseus.rdfs#" xmlns:persq="http://www.perseus.org/meta/persq.rdfs#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xsi:schemaLocation="http://www.tei-c.org/ns/1.0 http://www.tei-c.org/release/xml/tei/custom/schema/xsd/tei_dictionaries.xsd">
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Al-Kitaab Part 3</title>
          </titleStmt>
          <publicationStmt>
-            <date>2004</date>
+            <p>2004</p>
          </publicationStmt>
          <sourceDesc>
             <p>Kristen Brustad, Abbas Al-Tonsi and Mahmoud Al-Batal</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <refsDecl n="CTS">
+            <cRefPattern n="chapter" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div[@n='$1' and @type='chapter'])">
+               <p>This pointer pattern extracts line</p>
+            </cRefPattern>
+         </refsDecl>
+      </encodingDesc>
    </teiHeader>
    <text xml:lang="ar">
-      <body>
-         <div xmlns:tufts="http://www.tufts.edu/" n="1" type="chapter">
+      <body n="urn:cts:arabicLit:alk.alk003.alpheios-vocab-ara1" xml:lang="ar">
+         <div n="1" type="chapter">
             <entry xml:lang="ar" n="1">
 		
                <form type="inflection" xml:lang="ar">مُصْطَلَح</form>

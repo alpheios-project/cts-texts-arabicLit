@@ -18,13 +18,6 @@
                <p>This pointer pattern extracts line</p>
             </cRefPattern>
          </refsDecl>
-         <refsDecl n="TEI.2">
-            <refState unit="act"/>
-            <refState n="chunk" unit="scene"/>
-         </refsDecl>
-         <refsDecl n="TEI.2">
-            <refState unit="line"/>
-         </refsDecl>
       </encodingDesc>
 
    </teiHeader>

@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:arabicLit:alk.alk002" xml:lang="ar" groupUrn="urn:cts:arabicLit:alk">
+ <ti:title xml:lang="eng">Al-Kitaab Part 2</ti:title>
+  <ti:edition urn="urn:cts:arabicLit:alk.alk002.alpheios-vocab-ara1" workUrn="urn:cts:arabicLit:alk.alk002">
+    <ti:label xml:lang="eng">Al-Kitaab Part 2</ti:label>
+    <ti:description xml:lang="eng">Ali-Kitaab Part 2</ti:description>
+  </ti:edition>
+</ti:work>

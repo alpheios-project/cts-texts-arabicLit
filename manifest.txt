@@ -1,5 +1,9 @@
 data/alk/__cts__.xml
 data/alk/alk001/__cts__.xml
 data/alk/alk001/alk.alk001.alpheios-vocab-ara1.xml
+data/alk/alk002/__cts__.xml
+data/alk/alk002/alk.alk002.alpheios-vocab-ara1.xml
+data/alk/alk003/__cts__.xml
+data/alk/alk003/alk.alk003.alpheios-vocab-ara1.xml
 data/alk/alk00a/__cts__.xml
 data/alk/alk00a/alk.alk00a.alpheios-vocab-ara1.xml

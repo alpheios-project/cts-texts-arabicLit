@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:arabicLit:perseus201002.perseus0004" xml:lang="ara" groupUrn="urn:cts:arabicLit:perseus201002">
+ <ti:title xml:lang="eng">al-Alghani</ti:title>
+  <ti:edition urn="urn:cts:arabicLit:perseus201002.perseus0004.alpheios-text-ara1" workUrn="urn:cts:arabicLit:perseus201002.perseus0004">
+    <ti:label xml:lang="eng">Book of Songs, Vol. 4</ti:label>
+    <ti:description xml:lang="eng">Book of Songs, Vol. 4</ti:description>
+  </ti:edition>
+</ti:work>

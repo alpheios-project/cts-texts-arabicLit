@@ -48,6 +48,14 @@
                 </listBibl>
             </sourceDesc>        
         </fileDesc>
+        <encodingDesc>
+            <refsDecl n="CTS">
+                <cRefPattern n="page" matchPattern="(\w+).(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div1[@n='$1']/tei:div2[@n='$2'])"></cRefPattern>
+                <cRefPattern n="book" matchPattern="(\w+)" replacementPattern="#xpath(/tei:TEI/tei:text/tei:body/tei:div1[@n='$1'])">
+                    <p>This pointer pattern extracts book</p>
+                </cRefPattern>
+            </refsDecl>
+        </encodingDesc>
         <profileDesc>
             <langUsage>            
                 <language ident="ara">Arabic</language>
@@ -57,7 +65,7 @@
         </profileDesc>
     </teiHeader>
     <text xml:lang="ara">
-        <body>
+        <body xml:lang="ara" n="urn:cts:arabicLit:perseus201003.perseus0003.alpheios-text-ara1">
             <div1 n="1">
 <div2 type="page" n="3">
 <l>نبذة من كتاب مسالك الممالك للإِصْطَخْري

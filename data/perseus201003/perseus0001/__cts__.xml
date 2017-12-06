@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:arabicLit:perseus201003.perseus0001" xml:lang="ara" groupUrn="urn:cts:arabicLit:perseus201003">
+ <ti:title xml:lang="ara">بسم الله الرحمن الرحيم</ti:title>
+  <ti:edition urn="urn:cts:arabicLit:perseus201003.perseus0001.alpheios-text-ara1" workUrn="urn:cts:arabicLit:perseus201003.perseus0001">
+    <ti:label xml:lang="eng">Voyages D'Ibn Batutah, Vol. 4</ti:label>
+    <ti:description xml:lang="eng">Voyages D'Ibn Batutah, Vol. 4</ti:description>
+  </ti:edition>
+</ti:work>

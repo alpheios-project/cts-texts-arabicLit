@@ -1,0 +1,7 @@
+<ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:arabicLit:perseus201003.perseus0003" xml:lang="ara" groupUrn="urn:cts:arabicLit:perseus201003">
+ <ti:title xml:lang="eng">Selections from Arabic geographical literature</ti:title>
+  <ti:edition urn="urn:cts:arabicLit:perseus201003.perseus0003.alpheios-text-ara1" workUrn="urn:cts:arabicLit:perseus201003.perseus0003">
+    <ti:label xml:lang="eng">Selections from Arabic geographical literature</ti:label>
+    <ti:description xml:lang="eng">Selections from Arabic geographical literature</ti:description>
+  </ti:edition>
+</ti:work>

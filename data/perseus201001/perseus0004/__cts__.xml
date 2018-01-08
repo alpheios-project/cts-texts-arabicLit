@@ -1,7 +1,8 @@
 <ti:work xmlns:ti="http://chs.harvard.edu/xmlns/cts" urn="urn:cts:arabicLit:perseus201001.perseus0004" xml:lang="ara" groupUrn="urn:cts:arabicLit:perseus201001">
+ <ti:title xml:lang="eng">Arabian Nights (Volume 4)</ti:title>
  <ti:title xml:lang="ara">سم الله الرحمن الرحيم</ti:title>
   <ti:edition urn="urn:cts:arabicLit:perseus201001.perseus0004.alpheios-text-ara1" workUrn="urn:cts:arabicLit:perseus201001.perseus0004">
     <ti:label xml:lang="eng">Alpheios Enabled Arabian Nights, Vol. 4</ti:label>
-    <ti:description xml:lang="eng">Alpheios Enabled Arabian Nights, Vol. 4</ti:description>
+    <ti:description xml:lang="eng">TEI XML</ti:description>
   </ti:edition>
 </ti:work>

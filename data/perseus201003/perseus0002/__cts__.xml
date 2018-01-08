@@ -2,6 +2,6 @@
  <ti:title xml:lang="eng">Selection From The Annals Of Tabari</ti:title>
   <ti:edition urn="urn:cts:arabicLit:perseus201003.perseus0002.alpheios-text-ara1" workUrn="urn:cts:arabicLit:perseus201003.perseus0002">
     <ti:label xml:lang="eng">Selection From The Annals Of Tabari</ti:label>
-    <ti:description xml:lang="eng">Selection From The Annals Of Tabari</ti:description>
+    <ti:description xml:lang="eng">TEI XML</ti:description>
   </ti:edition>
 </ti:work>

@@ -2,6 +2,6 @@
  <ti:title xml:lang="eng">Arabic Reading Lessons</ti:title>
   <ti:edition urn="urn:cts:arabicLit:perseus201003.perseus0004.alpheios-text-ara1" workUrn="urn:cts:arabicLit:perseus201003.perseus0004">
     <ti:label xml:lang="eng">Arabic Reading Lessons</ti:label>
-    <ti:description xml:lang="eng">Arabic Reading Lessons</ti:description>
+    <ti:description xml:lang="eng">TEI XML</ti:description>
   </ti:edition>
 </ti:work>
